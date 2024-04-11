@@ -1,2 +1,2 @@
 # prvi-repo
-Prvi repozitorij za open shift tecaj 
+Prvi repozitorij za Open Shift tecaj 
